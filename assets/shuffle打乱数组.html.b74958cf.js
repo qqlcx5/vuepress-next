@@ -1,0 +1,2 @@
+const data = JSON.parse('{"key":"v-c2c943f6","path":"/utils/Array/shuffle%E6%89%93%E4%B9%B1%E6%95%B0%E7%BB%84.html","title":"shuffle\u6253\u4E71\u6570\u7EC4","lang":"zh-CN","frontmatter":{"title":"shuffle\u6253\u4E71\u6570\u7EC4","date":"2022-06-15T17:20:46.000Z","categories":["utils","Array"],"tags":[null]},"excerpt":"","headers":[],"git":{"updatedTime":1655436485000},"filePathRelative":"utils/Array/shuffle\u6253\u4E71\u6570\u7EC4.md"}');
+export { data };

@@ -1,0 +1,2 @@
+const data = JSON.parse('{"key":"v-5150c06c","path":"/utils/Function/throttle%E5%87%BD%E6%95%B0%E8%8A%82%E6%B5%81.html","title":"throttle\u51FD\u6570\u8282\u6D41","lang":"zh-CN","frontmatter":{"title":"throttle\u51FD\u6570\u8282\u6D41","date":"2022-06-15T17:20:46.000Z","categories":["utils","Function"],"tags":[null]},"excerpt":"","headers":[],"git":{"updatedTime":1655436485000},"filePathRelative":"utils/Function/throttle\u51FD\u6570\u8282\u6D41.md"}');
+export { data };

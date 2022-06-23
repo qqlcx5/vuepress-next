@@ -1,0 +1,2 @@
+const data = JSON.parse('{"key":"v-3757be0e","path":"/utils/Array/max%E6%95%B0%E7%BB%84%E4%B8%AD%E6%9C%80%E5%A4%A7%E5%80%BC.html","title":"max\u6570\u7EC4\u4E2D\u6700\u5927\u503C","lang":"zh-CN","frontmatter":{"title":"max\u6570\u7EC4\u4E2D\u6700\u5927\u503C","date":"2022-06-15T17:20:46.000Z","categories":["utils","Array"],"tags":[null]},"excerpt":"","headers":[],"git":{"updatedTime":1655436485000},"filePathRelative":"utils/Array/max\u6570\u7EC4\u4E2D\u6700\u5927\u503C.md"}');
+export { data };

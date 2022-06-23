@@ -1,0 +1,2 @@
+const data = JSON.parse('{"key":"v-56ee61d4","path":"/el-component/02.Vue%20Toast%E7%BB%84%E4%BB%B6%E5%BC%80%E5%8F%91.html","title":"Vue Toast\u7EC4\u4EF6\u5F00\u53D1","lang":"zh-CN","frontmatter":{"title":"Vue Toast\u7EC4\u4EF6\u5F00\u53D1","date":"2022-06-06T14:11:35.000Z","categories":["el-component"],"tags":[null]},"excerpt":"","headers":[],"git":{"updatedTime":1655436485000},"filePathRelative":"el-component/02.Vue Toast\u7EC4\u4EF6\u5F00\u53D1.md"}');
+export { data };

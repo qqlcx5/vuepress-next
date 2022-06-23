@@ -1,0 +1,2 @@
+const data = JSON.parse('{"key":"v-f61ebce8","path":"/utils/Number/sum%E6%95%B0%E7%BB%84%E4%B8%AD%E5%80%BC%E6%80%BB%E5%92%8C.html","title":"sum\u6570\u7EC4\u4E2D\u503C\u603B\u548C","lang":"zh-CN","frontmatter":{"title":"sum\u6570\u7EC4\u4E2D\u503C\u603B\u548C","date":"2022-06-15T17:20:46.000Z","categories":["utils","Number"],"tags":[null]},"excerpt":"","headers":[],"git":{"updatedTime":1655436485000},"filePathRelative":"utils/Number/sum\u6570\u7EC4\u4E2D\u503C\u603B\u548C.md"}');
+export { data };

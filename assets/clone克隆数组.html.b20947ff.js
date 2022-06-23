@@ -1,0 +1,2 @@
+const data = JSON.parse('{"key":"v-25f11cb1","path":"/utils/Array/clone%E5%85%8B%E9%9A%86%E6%95%B0%E7%BB%84.html","title":"clone\u514B\u9686\u6570\u7EC4","lang":"zh-CN","frontmatter":{"title":"clone\u514B\u9686\u6570\u7EC4","date":"2022-06-15T17:20:46.000Z","categories":["utils","Array"],"tags":[null]},"excerpt":"","headers":[],"git":{"updatedTime":1655436485000},"filePathRelative":"utils/Array/clone\u514B\u9686\u6570\u7EC4.md"}');
+export { data };

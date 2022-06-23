@@ -1,0 +1,2 @@
+const data = JSON.parse('{"key":"v-9dd956a8","path":"/utils/Array/sortAsc%E6%95%B0%E7%BB%84%E5%8D%87%E5%BA%8F.html","title":"sortAsc\u6570\u7EC4\u5347\u5E8F","lang":"zh-CN","frontmatter":{"title":"sortAsc\u6570\u7EC4\u5347\u5E8F","date":"2022-06-15T17:20:46.000Z","categories":["utils","Array"],"tags":[null]},"excerpt":"","headers":[],"git":{"updatedTime":1655436485000},"filePathRelative":"utils/Array/sortAsc\u6570\u7EC4\u5347\u5E8F.md"}');
+export { data };
